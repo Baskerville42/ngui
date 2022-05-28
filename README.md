@@ -6,6 +6,7 @@ Select Node version with ease.
 
 ## Installation
 
+- make sure that you have installed [Node.js®](https://nodejs.org/en/) with *npm* and [n](https://www.npmjs.com/package/n) package globaly;
 - visit [the app website]( https://baskerville42.github.io/ngui/) and click download;
 - double click the downloaded zip file to extract;
 - double clik on the extracted `.dmg`;
