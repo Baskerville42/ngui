@@ -2,7 +2,7 @@
 
 <img width="451" alt="ngui" src="https://user-images.githubusercontent.com/5596941/170835008-cc39a9e5-6031-4302-94c2-68dc37421dd7.png">
 
-Select Node version with ease.
+I just made this app for fun, 'cause I can. This app allows switching Node.js® versions with ease. That's all, Folks.
 
 ## Installation
 
@@ -22,7 +22,13 @@ Select Node version with ease.
 
 To have the app always open.
 
-- `System Preferences` > `Users & Groups`.
-- Select your User ID.
-- Select `Login Items`.
-- Click the `+` button to select `NGUI` app from your `Applications folder`.
+- `System Preferences` > `Users & Groups`;
+- select your User ID;
+- select `Login Items`;
+- click the `+` button to select `NGUI` app from your `Applications folder`.
+
+## Roadmap
+- refactor the code;
+- allow installation/removal of Node.js® versions;
+- show prompt with textbox to enter any Node.js® version manually;
+- tweak UI;
