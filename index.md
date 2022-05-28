@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to NGUI
+
+<img width="451" alt="ngui" src="https://user-images.githubusercontent.com/5596941/170835008-cc39a9e5-6031-4302-94c2-68dc37421dd7.png">
 
 You can use the [editor on GitHub](https://github.com/Baskerville42/ngui/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
