@@ -2,11 +2,11 @@
 
 <img width="451" alt="ngui" src="https://user-images.githubusercontent.com/5596941/170835008-cc39a9e5-6031-4302-94c2-68dc37421dd7.png">
 
-I just made this app for fun, 'cause I can. This app allows switching Node.js® versions with ease. That's all, Folks.
+I just made this app for fun, 'cause I can. This app allows switching Node.js® versions with ease.
 
 ## Installation
 
-- make sure that you have installed [Node.js®](https://nodejs.org/en/) with *npm* and [n](https://www.npmjs.com/package/n) package globaly;
+- make sure that you have installed [Node.js®](https://nodejs.org/en/) with *npm* and [n](https://www.npmjs.com/package/n) package globally;
 - visit [the app website]( https://baskerville42.github.io/ngui/) and click download;
 - double click the downloaded zip file to extract;
 - double clik on the extracted `.dmg`;
@@ -32,3 +32,5 @@ To have the app always open.
 - allow installation/removal of Node.js® versions;
 - show prompt with textbox to enter any Node.js® version manually;
 - tweak UI;
+
+## That's all Folks ;)
