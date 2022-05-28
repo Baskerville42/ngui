@@ -16,7 +16,7 @@ Select Node version with ease.
 ## Usage
 - open the app;
 - you should see the Node version appear on the menu bar;
-- click on the version and chose any installed node version when needed;
+- click on the version and chose any installed Node version when needed;
 - 🥳
 
 To have the app always open.
